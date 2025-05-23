@@ -17,6 +17,7 @@
     "@types/node": "^20.11.20"
   },
   "dependencies": {
+    "html-sample-assignment": "file:",
     "node-html-parser": "^7.0.1"
   }
 }
